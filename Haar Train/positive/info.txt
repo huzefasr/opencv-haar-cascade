@@ -1,0 +1,17 @@
+rawdata/0.bmp 1 231 157 127 159
+rawdata/1.bmp 1 233 163 127 156
+rawdata/10.bmp 1 243 158 153 175
+rawdata/11.bmp 1
+rawdata/12.bmp 1
+rawdata/13.bmp 1
+rawdata/14.bmp 1
+rawdata/15.bmp 1
+rawdata/16.bmp 1
+rawdata/17.bmp 1
+rawdata/18.bmp 1
+rawdata/2.bmp 1
+rawdata/3.bmp 1
+rawdata/4.bmp 1
+rawdata/5.bmp 1
+rawdata/6.bmp 1
+rawdata/7.bmp 1
